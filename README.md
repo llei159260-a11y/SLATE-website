@@ -2,7 +2,7 @@
 
 思徕传媒品牌展示网站，包含首页、场景示例、服务与方案、关于我们及隐私说明。
 
-公开网址：<https://xiaopoqiang.github.io/SLATE-website/>
+公开网址：<https://llei159260-a11y.github.io/SLATE-website/>
 
 ## 发布方式
 
